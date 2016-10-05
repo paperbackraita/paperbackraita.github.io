@@ -1,3 +1,7 @@
-## Personal webpage
+# Personal webpage
 
-Redirection from http://home.iiitd.edu.in/~mridul12061
+## DNS Facts
+
+1. CNAMEd from http://about.yamatau.com/
+
+2. Redirection from http://home.iiitd.edu.in/~mridul12061
