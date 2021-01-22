@@ -1,3 +1,3 @@
 # Personal webpage
 
-CNamed from https://mridul.fyi
+CNamed from https://www.mridul.fyi
